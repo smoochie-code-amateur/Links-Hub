@@ -19,5 +19,26 @@ The source code is on GitHub; you can fork it if needed and modify it as you wis
 ## 🔐 Private and no tracking 
 I don’t need your data, I don’t collect it and I don’t track you in any way. Your links and information are private. All preferences are stored locally in your browser.
 
+## 💻 Installation
+
+**Available on:** Firefox | Chromium
+
+#### 🦊 Firefox 
+You can install it from the add-ons store.
+It will work on Android and PC.
+> I'm waiting for a review from Firefox. But you can download the extension manually into your browser to test it. 
+
+#### 🔵 Chromium
+I don’t want to pay Google or publish the extension there. Instead, you can very easily add it to your browser yourself. 
+> It’s even more private that way ;]
+
+1. Type `chrome://extensions/` into the adress bar
+2. Toggle on `Developer mode`
+3. Click `Load unpacked extension`
+4. Select the folder with the extension files.
+5. Pin it to the toolbar for convenience.
+
+**Done!** Feel free to use it.
+
 ---
 > Created by an amateur who dabbles in coding in their spare time. There may be errors, and I’m happy to receive constructive criticism  ;]

@@ -24,9 +24,7 @@ I don’t need your data, I don’t collect it and I don’t track you in any wa
 **Available on:** Firefox | Chromium
 
 #### 🦊 Firefox 
-You can install it from the add-ons store.
-It will work on Android and PC.
-> I'm waiting for a review from Firefox. But you can download the extension manually into your browser to test it. 
+You can install it from the [add-ons store](https://addons.mozilla.org/uk/firefox/addon/links-hub/).
 
 #### 🔵 Chromium
 I don’t want to pay Google or publish the extension there. Instead, you can very easily add it to your browser yourself. 

@@ -21,7 +21,7 @@ I don’t need your data, I don’t collect it and I don’t track you in any wa
 
 ## 💻 Installation
 
-**Available on:** Firefox | Chromium
+**Available on:** [Firefox](https://github.com/smoochie-code-amateur/Links-Hub/blob/main/README.md#-firefox) | [Chromium](https://github.com/smoochie-code-amateur/Links-Hub/blob/main/README.md#-chromium)
 
 #### 🦊 Firefox 
 You can install it from the [add-ons store](https://addons.mozilla.org/uk/firefox/addon/links-hub/).
